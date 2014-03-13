@@ -8,7 +8,7 @@
  * 简体中文语言包 - 服务台
  * 版本: 6.0.0 
  * 作者: Maie | www.maie.name
- * 更新日期: 2014-01-13
+ * 更新日期: 2014-03-13
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
@@ -43,8 +43,8 @@ $languageStrings = array(
 	'High'=>'高度重视',
 	'Urgent'=>'急需解决',
 
-	'Minor'=>'主要',
-	'Major'=>'轻微',
+	'Minor'=>'轻微',
+	'Major'=>'一般',
 	'Feature'=>'比较特别',
 	'Critical'=>'非常严重',
 
